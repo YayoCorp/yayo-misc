@@ -34,7 +34,12 @@ Buy $MATIC on any of the major exchanges such as Coinbase, Binance or FTX,
 then transfer/withdraw the $MATIC funds to your wallet address on MetaMask.
 These funds will be converted directly into $YAYO.
 
-## 4. Swap $MATIC for $YAYO
+## 4. Show $YAYO balance in MetaMask
+
+Click _Add Token_ in MetaMask and paste 0xTODO in the _Token Contract Address_
+field.
+
+## 5. Swap $MATIC for $YAYO
 
 Visit [QuickSwap](https://quickswap.exchange/#/swap), and click
 **Connect to a Wallet**. Enter the amount of $MATIC you would like to convert
