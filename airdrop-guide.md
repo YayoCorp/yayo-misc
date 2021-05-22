@@ -1,6 +1,6 @@
 # Preparing for a $YAYO airdrop
 
-**~ PLEASE READ THIS FIRST! ~**
+_Last updated: May 22, 2021_
 
 This guide will make sure you are ready to sign up for a $YAYO airdrop.
 
@@ -21,7 +21,8 @@ Download the
 phrase you won't be able to restore your wallet if you lose your device. (!!!)**
 
 After setting up MetaMask, you can copy your public wallet address by clicking
-the text starting with `0xSomething` just below your account name.
+the text starting with `0xSomething` just below your account name. This is the
+address you will enter into the airdrop form.
 
 ## 2. Connect to the Matic network
 
@@ -47,6 +48,8 @@ Open MetaMask and make sure you are on the **Matic Network** (look in the top
 right corner), then click _Add Token_. Where it says _Token Contract Address_,
 paste the following address: `0xThisAddressWillBeReleasedSoonSoStayPatient^^`.
 
-(TODO)
+**(TODO, this address is not public yet)**
 
-**You are now ready to receive and see your $YAYO!**
+## 4. Done!
+
+You are now ready to receive and see your $YAYO.
