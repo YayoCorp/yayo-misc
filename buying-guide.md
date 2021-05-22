@@ -23,7 +23,7 @@ If you are on browser, visit [QuickSwap](https://quickswap.exchange/#/swap)
 and hit **Connect to a Wallet**. QuickSwap will add the network automatically.
 
 If you are using MetaMask on iPhone/Android, add the network manually in your
-wallet by going to _Settings_, then _Network_, click _Add network_ and fill in
+wallet by going to _Settings_, then _Network_, click _Add Network_ and fill in
 the following values:
 
 | Field                           | Value                                   |
