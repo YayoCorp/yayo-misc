@@ -5,8 +5,6 @@ _Last updated: May 23, 2021_
 $YAYO is an ERC-20 token on the Matic Network. Follow these steps to buy
 $YAYO, or join our [Telegram](#TODO) if you need assistance.
 
-![Flowchart](flow.png)
-
 ## 1. Create a MetaMask wallet
 
 MetaMask is a popular wallet for managing ERC-20 tokens. Download the
