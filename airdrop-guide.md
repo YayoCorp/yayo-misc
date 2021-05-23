@@ -1,6 +1,6 @@
 # Preparing for a $YAYO airdrop
 
-_Last updated: May 22, 2021_
+_Last updated: May 23, 2021_
 
 This guide will make sure you are ready to sign up for a $YAYO airdrop.
 
@@ -46,9 +46,7 @@ then _Network_, click _Add Network_ and fill in the following values:
 
 Open MetaMask and make sure you are on the **Matic Network** (look in the top
 right corner), then click _Add Token_. Where it says _Token Contract Address_,
-paste the following address: `0xThisAddressWillBeReleasedSoonSoStayPatient^^`.
-
-**(TODO, this address is not public yet)**
+paste the following address: `0xbfae19E81BC0ab27A16846156B903B9c064C53F4`.
 
 ## 4. Done!
 
