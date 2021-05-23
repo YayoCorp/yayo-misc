@@ -17,8 +17,9 @@ Download the
 [iPhone](https://apps.apple.com/us/app/metamask/id1438144202) or
 [Android](https://play.google.com/store/apps/details?id=io.metamask) apps.
 
-**(!!!) Make sure you save your seed phrase in a safe place. Without your seed
-phrase you won't be able to restore your wallet if you lose your device. (!!!)**
+**(!!!) Make sure you save your seed phrase and your password in a safe place.
+Without your seed phrase you won't be able to restore your wallet if you lose
+your device. (!!!)**
 
 After setting up MetaMask, you can copy your public wallet address by clicking
 the text starting with `0xSomething` just below your account name. This is the
