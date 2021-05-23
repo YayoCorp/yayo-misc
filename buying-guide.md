@@ -1,5 +1,7 @@
 # How to Buy $YAYO
 
+_Last updated: May 23, 2021_
+
 $YAYO is an ERC-20 token on the Matic Network. Follow these steps to buy
 $YAYO, or join our [Telegram](#TODO) if you need assistance.
 
@@ -50,3 +52,5 @@ your return. Then click **Swap** to process the transaction.
 
 The purchased $YAYO will now appear in your MetaMask wallet. To sell $YAYO,
 simply follow the same steps in reverse.
+
+The $YAYO token address is `0xbfae19E81BC0ab27A16846156B903B9c064C53F4`.
