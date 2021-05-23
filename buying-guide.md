@@ -12,10 +12,10 @@ MetaMask is a popular wallet for managing ERC-20 tokens. Download the
 [iPhone](https://apps.apple.com/us/app/metamask/id1438144202) or
 [Android](https://play.google.com/store/apps/details?id=io.metamask) apps.
 
-## 2. Send $MATIC to MetaMask
+## 2. Send $ETH to MetaMask
 
-Buy $ETH or $MATIC on any of the major exchanges such as Coinbase, Binance or
-FTX, then transfer/withdraw the funds to your wallet address on MetaMask.
+Buy $ETH on any of the major exchanges such as Coinbase, Binance or FTX,
+then transfer/withdraw the funds to your wallet address on MetaMask.
 
 ## 3. Connect to the Matic network
 
@@ -37,15 +37,15 @@ the following values:
 
 ## 4. Transfer Funds to Matic Network
 
-Visit [Matic Bridge](https://wallet.matic.network/bridge) and transfer funds
+Visit [Matic Bridge](https://wallet.matic.network/bridge) and transfer $ETH
 from Ethereum to the Matic Network.
 
-## 5. Swap $MATIC for $YAYO
+## 5. Swap $ETH for $YAYO
 
 Visit [QuickSwap](https://quickswap.exchange/#/swap), and click
 **Connect to a Wallet**.
 
-Enter the amount of $MATIC you would like to convert to $YAYO and you will see
+Enter the amount of $ETH you would like to convert to $YAYO and you will see
 your return. Then click **Swap** to process the transaction.
 
 The purchased $YAYO will now appear in your MetaMask wallet. To sell $YAYO,
