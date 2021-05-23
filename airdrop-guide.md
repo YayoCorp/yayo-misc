@@ -48,7 +48,3 @@ then _Network_, click _Add Network_ and fill in the following values:
 Open MetaMask and make sure you are on the **Matic Network** (look in the top
 right corner), then click _Add Token_. Where it says _Token Contract Address_,
 paste the following address: `0xbfae19E81BC0ab27A16846156B903B9c064C53F4`.
-
-## 4. Done!
-
-You are now ready to receive and see your $YAYO.
