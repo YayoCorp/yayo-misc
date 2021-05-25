@@ -51,4 +51,4 @@ your return. Then click **Swap** to process the transaction.
 The purchased $YAYO will now appear in your MetaMask wallet. To sell $YAYO,
 simply follow the same steps in reverse.
 
-The $YAYO token address is `0xbfae19E81BC0ab27A16846156B903B9c064C53F4`.
+The $YAYO token address is `0xf7058856f405542cd660e8ce4751248F2d037f2B`.
